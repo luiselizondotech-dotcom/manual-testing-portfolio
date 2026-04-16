@@ -1,4 +1,57 @@
-# 📋 Manual Testing Portfolio — OpenCart E-commerce
+# Manual Testing Portfolio
+
+![Testing](https://img.shields.io/badge/Manual_Testing-QA_Portfolio-blue?style=flat-square) ![Test Cases](https://img.shields.io/badge/Test_Cases-40%2B-brightgreen?style=flat-square) ![Bug Reports](https://img.shields.io/badge/Bug_Reports-15%2B-orange?style=flat-square)
+
+Professional QA manual testing portfolio with test cases, bug reports, SQL validation queries and exploratory testing notes. Demonstrates real-world testing skills for web and mobile applications.
+
+## 🎯 What This Project Demonstrates
+
+- **Test case design** following industry best practices
+- **Bug reporting** with clear reproduction steps, severity and priority
+- **SQL queries** for database validation
+- **Exploratory testing** notes and session documentation
+- Professional documentation quality suitable for enterprise environments
+
+## 📁 Portfolio Contents
+
+| Artifact | Description | Count |
+|----------|-------------|-------|
+| Test Cases | Functional, regression, smoke test suites | 40+ |
+| Bug Reports | Documented defects with screenshots | 15+ |
+| SQL Queries | Data validation and DB testing | 10+ |
+| Exploratory Notes | Session-based test charters | 5+ |
+
+## 🛠️ Tools & Format
+
+| Tool | Purpose |
+|------|---------|
+| Markdown | Test case documentation |
+| SQL | Database validation queries |
+| Spreadsheets | Test plan and traceability matrix |
+| JIRA-style | Bug report format |
+
+## 📋 Test Areas Covered
+
+- User registration and authentication flows
+- Shopping cart and checkout process
+- Product catalog and search functionality
+- Payment processing validation
+- Mobile responsive layout testing
+- API response validation (manual)
+
+## 📊 Results
+
+- ✅ 40+ documented test cases
+- ✅ 15+ bug reports with reproduction steps
+- ✅ SQL queries for data integrity validation
+- ✅ Complete exploratory testing session notes
+
+## 👤 Author
+
+**Luis Elizondo** — QA Engineer
+- GitHub: [@luiselizondotech-dotcom](https://github.com/luiselizondotech-dotcom)
+- LinkedIn: [qa-engineer-elizondo-luis](https://www.linkedin.com/in/qa-engineer-elizondo-luis)
+- Portfolio: [luis-qa-journey.lovable.app](https://luis-qa-journey.lovable.app)# 📋 Manual Testing Portfolio — OpenCart E-commerce
 
 A comprehensive manual QA documentation portfolio for [OpenCart Demo](https://demo.opencart.com), showcasing professional test cases, bug reports, SQL test queries, and exploratory testing notes.
 
